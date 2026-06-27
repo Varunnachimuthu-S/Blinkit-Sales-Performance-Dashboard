@@ -66,5 +66,5 @@ This dashboard helps understand the overall sales and outlet performance of Blin
 ---
 
 ## Author
-**VARUNNACHIMUTU**  
+**VARUNNACHIMUTHU**  
 
